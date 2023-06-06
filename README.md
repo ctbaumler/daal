@@ -1,6 +1,6 @@
 # Which Examples Should be Multiply Annotated? Active Learning When Annotators May Disagree
 
-By: [Connor Baumler](https://ctbaumler.github.io/) `<baumler@umd.edu` Anna Sotnikova, and Hal Daumé III
+By: [Connor Baumler](https://ctbaumler.github.io/) `<baumler@umd.edu`, Anna Sotnikova, and Hal Daumé III
 
 Bibtex for ACL version will go here when avaible.
 
