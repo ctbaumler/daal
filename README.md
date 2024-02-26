@@ -1,8 +1,23 @@
 # Which Examples Should be Multiply Annotated? Active Learning When Annotators May Disagree
 
-By: [Connor Baumler](https://ctbaumler.github.io/) `<baumler@umd.edu`, Anna Sotnikova, and Hal Daumé III
+By: [Connor Baumler](https://ctbaumler.github.io/) `<baumler@umd.edu>`, Anna Sotnikova, and Hal Daumé III
 
-Bibtex for ACL version will go here when avaible.
+```
+@inproceedings{baumler-etal-2023-examples,
+    title = "Which Examples Should be Multiply Annotated? Active Learning When Annotators May Disagree",
+    author = "Baumler, Connor  and
+      Sotnikova, Anna  and
+      Daum{\'e} III, Hal",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2023",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-acl.658",
+    doi = "10.18653/v1/2023.findings-acl.658",
+    pages = "10352--10371",
+}
+```
 
 
 ## Usage
